@@ -2,4 +2,14 @@
 	Illuminated Manuscript Tumblr Theme
 	last updated 05/02/2023
 	created by @skylark-whaleshark
-*************************************************************
+*************************************************************/
+body {
+	padding-top: 60px;
+	background-color: {BackgroundColor};
+	font-family: 'MedievalSharp', cursive;
+	font-family: 'Pirata One', cursive;
+}
+
+.container {
+	width: 550px;
+}
